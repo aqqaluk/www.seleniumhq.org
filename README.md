@@ -18,3 +18,7 @@ deploying to google appengine run:
 
 You will need to authenticate with google and this will only
 work if you have a @seleniumhq.org account.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aqqaluk/www.seleniumhq.org/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
